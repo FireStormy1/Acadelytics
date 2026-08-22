@@ -6,7 +6,7 @@ A simple and intuitive academic grade calculator built for university students t
 
 # 🚀 Live Demo
 
-👉 https://firestormy1.github.io/Acadelytics/
+👉 https://saswatdixit.github.io/Acadelytics/
 👉 https://acadelytics.vercel.app/
 
 ---
